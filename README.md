@@ -5,7 +5,7 @@ My profile
 <h1 align="center">Hi 👋, I'm Alfonso Hinojosa</h1>
 <h3 align="center">A passionate Web developer | Frontend | Backend</h3>
 <hr>
-<img aling="end" alt="Coding" width="200" src="https://media.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif">
+<img aling="end" alt="Coding" width="200" src="[https://media.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif](https://www.michaelpage.es/sites/michaelpage.es/files/styles/advice_node_desktop/public/2021-11/Full%20Stack%20Developer.jpg?itok=mciNzA6q)">
 
 
 - 🌱 I’m currently learning **JS, React, Redeux, Java, Express...**
