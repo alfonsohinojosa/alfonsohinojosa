@@ -1,9 +1,11 @@
-<img aling="center" alt="Coding" width="200" src="https://media.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif">
+
 # Alfonso-Hinojosa
 My profile
 
 <h1 align="center">Hi 👋, I'm Alfonso Hinojosa</h1>
 <h3 align="center">A passionate Web developer | Frontend | Backend</h3>
+<hr>
+<img aling="center" alt="Coding" width="200" src="https://media.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif">
 
 
 - 🌱 I’m currently learning **JS, React, Redeux, Java, Express...**
