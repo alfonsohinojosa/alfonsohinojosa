@@ -2,7 +2,7 @@
 My profile
 
 <h1 align="center">Hi 👋, I'm Alfonso Hinojosa</h1>
-<h3 align="center">Fullstack Web Dev</h3>
+<h3 align="center">A passionate Web developer | Frontend | Backend</h3>
 
 - 🌱 I’m currently learning **JS, React, Redeux, Java, Express...**
 
