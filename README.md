@@ -3,7 +3,7 @@ My profile
 
 <h1 align="center">Hi 👋, I'm Alfonso Hinojosa</h1>
 <h3 align="center">A passionate Web developer | Frontend | Backend</h3>
-<img aling="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif">
+<img aling="left" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif](https://tenor.com/es-MX/view/developer-workstation-gif-19181813)">
 
 - 🌱 I’m currently learning **JS, React, Redeux, Java, Express...**
 
