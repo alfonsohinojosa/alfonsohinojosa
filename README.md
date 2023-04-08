@@ -5,10 +5,10 @@ My profile
 <h1 align="center">Hi 👋, I'm Alfonso Hinojosa</h1>
 <h3 align="center">A passionate Web developer | Frontend | Backend</h3>
 <hr>
-<img aling="end" alt="Coding" height="400" width="300" src="https://cdn.dribbble.com/users/132194/screenshots/3143314/media/cab041698e1209df1251db2fc7714c05.gif">
 
 
-- 🌱 I’m currently learning **JS, React, Redeux, Java, Express...**
+
+<img aling="end" alt="Coding" height="400" width="300" src="https://cdn.dribbble.com/users/132194/screenshots/3143314/media/cab041698e1209df1251db2fc7714c05.gif">- 🌱 I’m currently learning **JS, React, Redeux, Java, Express...**
 
 - 📫 How to reach me **ahinojosa.dev@gmail.com**
 
