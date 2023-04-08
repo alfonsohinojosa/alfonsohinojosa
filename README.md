@@ -5,7 +5,7 @@ My profile
 <h1 align="center">Hi 👋, I'm Alfonso Hinojosa</h1>
 <h3 align="center">A passionate Web developer | Frontend | Backend</h3>
 <hr>
-<img aling="end" alt="Coding" height="200" width="1080" src="https://www.canva.com/design/DAFfj8sUEP4/Gx4qL5eSQhH4mOgezZKCeA/edit?utm_content=DAFfj8sUEP4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img aling="end" alt="Coding" height="200" width="1080" src="https://cdn.dribbble.com/users/132194/screenshots/3143314/media/cab041698e1209df1251db2fc7714c05.gif">
 
 
 - 🌱 I’m currently learning **JS, React, Redeux, Java, Express...**
